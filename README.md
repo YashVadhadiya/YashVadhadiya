@@ -3,8 +3,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="mark.css" />
 
 
-![poster](./Assets/poster.svg)
-
 <p align="center">
 <a href="https://twitter.com/YVadhadiya" target="blank"><img align="center" src="./Assets/twitter.svg" alt="Yash_Vadhadiya" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/yash-vadhadiya" target="blank"><img align="center" src="./Assets/linkedin.svg" alt="yash-vadhadiya" height="30" width="40" /></a> &nbsp;
