@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://twitter.com/YVadhadiya" target="blank"><img align="center" src="./Assets/twitter.svg" alt="Yash_Vadhadiya" height="30" width="40" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCunA_lA4Iy1rvUObT90Pumw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Yash_Vadhadiya" height="30" width="40" /></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCunA_lA4Iy1rvUObT90Pumw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Yash_Vadhadiya" height="40" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/yash-vadhadiya" target="blank"><img align="center" src="./Assets/linkedin.svg" alt="yash-vadhadiya" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/_______yash___" target="blank"><img align="center" src="./Assets/instagram.svg" alt="yash-vadhadiya" height="30" width="40" /></a> &nbsp;
 <a href="https://open.spotify.com/user/31gmgvznpqjk6anonhgjc5xflmau" target="blank"><img align="center" src="./Assets/spotify.svg" alt="" height="30" width="40" /></a> &nbsp; &nbsp;
