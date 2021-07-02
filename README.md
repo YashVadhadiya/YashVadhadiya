@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello There <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h1>
+<h1 align="center">Hello There I'm Yash<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h1>
 <link rel="stylesheet" type="text/css" media="all" href="mark.css" />
 
 
@@ -12,7 +12,7 @@
 </p></br> 
  &#9; <h2 class="Text" align="left">Student @ MEFGI</h2>
 
-- 🌱 I’m currently learning **Web Development, WordPress Development, Full-Stack Delopment**
+- 🌱 I’m currently learning **WordPress Development, Full-Stack Delopment**
 
 - 🤝 I’m looking for help with **Frontend & Cloud Engineer internship**
 
