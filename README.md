@@ -38,5 +38,9 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe_illustrator" width="40" height="40"/> </a> 
 </p>
 </br> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashVadhadiya&show_icons=true&locale=en" alt="yash-vadhadiya" /></p>
+<p align="center">&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashVadhadiya&show_icons=true&locale=en" alt="yash-vadhadiya" /><br><br><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=20&layout=compact" alt="yash-vadhadiya" />
+ 
+</p>
 
